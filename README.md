@@ -32,7 +32,7 @@ To set up this project, you need to have Python and MySQL installed on your mach
 
 1. **Clone the repository**:
     ```sh
-    git clone [https://github.com/Macret16/flat-management-system.git](https://github.com/Macret16/Flat-Management-System.git)
+    git clone https://github.com/Macret16/flat-management-system.git
     cd flat-management-system
     ```
 
